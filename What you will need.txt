@@ -1,0 +1,42 @@
+What you will need:
+
+ESP32 C3 Mini:
+https://nl.aliexpress.com/item/1005010528720633.html?spm=a2g0o.productlist.main.15.447b2e47PZL5WS&algo_pvid=dc126f0c-396f-409d-80a53-fc8ac739fd80&algo_exp_id=dc126f0c-396f-409d-8053-fc8ac739fd80-14&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2110.22%215.11%21%21%2179.69%2139.85%21%40211b617b17748019254587267e06cd%2112000052708496947%21sea%21BE%216628528321%21X%211%210%21n_tag%3A-29919%3Bd%3A2fae4469%3Bm03_new_user%3A-29895&curPageLogUid=y2FuwiGS8uIw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010528720633%7C_p_origin_prod%3A
+
+Pin Header(For the esp32):
+https://nl.aliexpress.com/item/1005010717509980.html?spm=a2g0o.productlist.main.1.11beyOzmyOzmzc&algo_pvid=2f66c46d-4f7f-4571-bdb9-1fbb130b5f90&algo_exp_id=2f66c46d-4f7f-4571-bdb9-1fbb130b5f90-0&pdp_ext_f=%7B%22order%22%3A%2245%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2114.77%217.09%21%21%21115.12%2155.26%21%40211b819117748019971402159e316a%2112000053286152658%21sea%21BE%216628528321%21X%211%210%21n_tag%3A-29919%3Bd%3A2fae4469%3Bm03_new_user%3A-29895&curPageLogUid=RtNAVAUYaY8g&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010717509980%7C_p_origin_prod%3A
+
+
+JST 2X1:
+https://nl.aliexpress.com/item/1005008684370279.html?spm=a2g0o.productlist.main.50.420fNVd1NVd1rV&aem_p4p_detail=2026032910190811870949594520800002407445&algo_pvid=b5a6c550-3d51-4335-b622-becf7b23c46c&algo_exp_id=b5a6c550-3d51-4335-b622-becf7b23c46c-47&pdp_ext_f=%7B%22order%22%3A%221061%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.83%211.83%21%21%212.06%212.06%21%402103867617748047485576698e3b9a%2112000046253280569%21sea%21BE%216628528321%21X%211%210%21n_tag%3A-29919%3Bd%3A2fae4469%3Bm03_new_user%3A-29895&curPageLogUid=eSINrbJ5gx2y&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008684370279%7C_p_origin_prod%3A&search_p4p_id=2026032910190811870949594520800002407445_12
+
+
+ON/OFF Switch:
+https://nl.aliexpress.com/item/1000007042312.html?spm=a2g0o.cart.0.0.3e10378dyrCVWZ&mp=1&pdp_npi=6%40dis%21EUR%21EUR%201.85%21EUR%201.85%21%21EUR%201.85%21%21%21%40211b612517748047840964388e02bd%211000113088698%21ct%21BE%216628528321%21%211%210%21&gatewayAdapt=glo2nld
+
+Invisible Thread
+
+2X smole screw
+
+1x Miniature coreless DC motor, 3V or 3.7V (Take the 612B)
+
+Take the motor with those rules:
+
+Model: 0612 B
+
+1. Motor diameter: 6 mm
+
+2. Motor length: 12 mm
+
+3. Output shaft: 0.8 mm
+
+4. Output shaft length: 4 mm
+
+5. Test data:
+
+Voltage: 3.7 V No-load current: 10 mA No-load speed: 32,000 rpm
+
+Voltage: 5.0 V No-load current: 20 mA No-load speed: 42,000 rpm
+
+Link:
+https://nl.aliexpress.com/item/1005006141012267.html?spm=a2g0o.productlist.main.2.62fbbmm1bmm1Gf&algo_pvid=18e9d1a6-537e-4b3b-93e1-d6f421bc1fb6&algo_exp_id=18e9d1a6-537e-4b3b-93e1-d6f421bc1fb6-1&pdp_ext_f=%7B%22order%22%3A%22477%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.92%211.92%21%21%2115.00%2115.00%21%402103834817748051936088747e064c%2112000053060116934%21sea%21BE%216628528321%21X%211%210%21n_tag%3A-29919%3Bd%3A2fae4469%3Bm03_new_user%3A-29895&curPageLogUid=Pe2xwwT9uWrS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006141012267%7C_p_origin_prod%3A
